@@ -3,6 +3,8 @@
 Ambiente em desenvolvimento
 
 <!--
+https://readme-typing-svg.demolab.com/demo/
+
 Font: Carter One
 Font weight: 400
 Font size: 25
@@ -15,4 +17,6 @@ Vertically Centered: False
 Multiline: Type sentences on the line
 Repeat: False
 Width ✕ Height: 435 x 50
+
+https://github.com/denvercoder1/readme-typing-svg
 -->
